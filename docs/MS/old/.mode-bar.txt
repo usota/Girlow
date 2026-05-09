@@ -1,1 +1,0 @@
-.mode-bar{display:flex;align-items:center;background:var(--bg2);border:1px solid var(--border);border-radius:8px;overflow:hidden;width:fit-content;flex:1;height:32px;position:relative;}
