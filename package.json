@@ -1,0 +1,31 @@
+{
+  "name": "exfiles",
+  "version": "1.0.1",
+  "description": "ExFiles - Modern File Manager",
+  "author": "HypeMe Team",
+  "license": "X2Sec",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^42.0.1",
+    "electron-builder": "^26.8.1"
+  },
+  "build": {
+    "appId": "com.exfiles.app",
+    "productName": "ExFiles",
+    "win": {
+      "target": "portable",
+      "icon": "assets/ico.ico",
+      "forceCodeSigning": false
+    },
+    "protocols": {
+      "name": "exfiles-protocol",
+      "schemes": [
+        "exfiles"
+      ]
+    }
+  }
+}
