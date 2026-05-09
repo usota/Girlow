@@ -1,6 +1,5 @@
-![S7Banner](docs/assets/banner.png)
-![DevTeam](https://img.shields.io/badge/Developers%20%7C-S7%20Softworks-6e6e6e?labelColor=cfcfcf)
-![License](https://img.shields.io/badge/Software%20License-SL%201.0-6e6e6e?labelColor=cfcfcf)
+![DevTeam](https://img.shields.io/badge/Developers%20%7C-HyperMe%20Team-6e6e6e?labelColor=cfcfcf)
+![License](https://img.shields.io/badge/Software%20License-X2Sec%201.1-6e6e6e?labelColor=cfcfcf)
 # RCCs
 RConsole Commands Shortner 
 Just shortner for commands
@@ -21,6 +20,4 @@ Custom Syntax \ Deobfuscated Syntax
 Maybe soon convertator Lua to ELua when ELua been released !
 
 
-Thanks for using our projects !
-
-![Credits](docs/assets/Сredits.png)
+### Thanks for using our projects !
