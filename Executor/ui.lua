@@ -4,7 +4,7 @@ Execu_tor.IgnoreGuiInset = true
 Execu_tor.ResetOnSpawn = false
 Execu_tor.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 Execu_tor.DisplayOrder = 999999
-Execu_tor.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+Execu_tor.Parent = game:GetService("CoreGui")
 
 local Container = Instance.new("Frame")
 Container.Name = "Container"
